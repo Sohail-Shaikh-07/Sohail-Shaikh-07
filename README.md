@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sohail Shaikh</h1>
-<h3 align="center">Passionate Computer Science student from India, specializing in Python development, data science, and creating innovative applications.</h3>
+<h1 align="center">I'm Sohail Shaikh 👋</h1>
+<h3 align="center">𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙞𝙖, 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙋𝙮𝙩𝙝𝙤𝙣 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩, 𝙙𝙖𝙩𝙖 𝙨𝙘𝙞𝙚𝙣𝙘𝙚, 𝙖𝙣𝙙 𝙢𝙖𝙘𝙝𝙞𝙣𝙚 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜...</h3>
 
 - 🔭 I’m currently working on **something cool**
 
