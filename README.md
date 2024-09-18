@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Sohail Shaikh 👋</h1>
 <h3 align="center">𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙞𝙖, 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙋𝙮𝙩𝙝𝙤𝙣 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩, 𝙙𝙖𝙩𝙖 𝙨𝙘𝙞𝙚𝙣𝙘𝙚, 𝙖𝙣𝙙 𝙢𝙖𝙘𝙝𝙞𝙣𝙚 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜...</h3>
 
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Gluten&color=FF9933&size=30&center=true&vCenter=true&width=900&height=70&lines=A+passionate+competitive+programmer;Data+Science%2C+Artificial+Intelligence+and+Machine+Learning+;Where+there+is+Code.+There+is+Life" />
+ </p>
+
 - 🔭 I’m currently working on **something cool**
 
 - 🌱 I’m currently learning **Deep Learning and Neural Network**
 
-- 💬 Ask me about **Python Programming,EDA**
+- 💬 Ask me about **Python Programming, EDA**
 
 - 📫 How to reach me **sohailshaikharifshaikh07@gmail.com**
 
