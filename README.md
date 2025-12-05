@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Python Programming, EDA**
 
-- 📫 How to reach me **sohailshaikharifshaikh07@gmail.com**
+- 📫 How to reach me **sohails07shaikh@gmail.com**
 
 - ⚡ Fun fact **I once tried to learn a new language just by watching movies in that language.**
 
