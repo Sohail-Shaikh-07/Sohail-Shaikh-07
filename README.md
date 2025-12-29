@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=100&lines=Data+Scientist+%F0%9F%93%8A;AI%2FML+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+Intelligence+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Sohail-Shaikh-07?style=social)](https://github.com/Sohail-Shaikh-07)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Sohail-Shaikh-07&label=Profile%20Views&color=00d9ff&style=flat-square)](https://github.com/Sohail-Shaikh-07)
-  
-</div>
-
 <br>
 
 ## 🧬 About Me
@@ -113,8 +106,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-_Note: The snake animation shows a sample. To generate your own, you'll need to set up a GitHub Action (instructions below)._
-
 <br>
 
 ## 🚀 Featured Projects
@@ -148,9 +139,9 @@ Brief description of another cool project
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'darkMode': true, 'primaryColor':'#00d9ff', 'primaryTextColor':'#fff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1a2e', 'tertiaryColor':'#16213e', 'background':'#0d1117', 'mainBkg':'#1a1a2e', 'secondBkg':'#16213e', 'tertiaryBkg':'#0f3460', 'nodeBorder':'#00d9ff', 'clusterBkg':'#1a1a2e', 'clusterBorder':'#00d9ff', 'titleColor':'#fff', 'edgeLabelBackground':'#1a1a2e', 'nodeTextColor':'#ffffff'}}}%%
+%%{init: {"theme": "neutral"} }%%
 mindmap
-  root((AI/ML<br/>Journey))
+  root((AI/ML Journey))
     Deep Learning
       Neural Networks
       CNNs
@@ -167,6 +158,7 @@ mindmap
       Model Deployment
       CI/CD Pipelines
       Monitoring
+
 ```
 
 </div>
