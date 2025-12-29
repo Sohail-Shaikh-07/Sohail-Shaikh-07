@@ -5,8 +5,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=100&lines=Data+Scientist+%F0%9F%93%8A;AI%2FML+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+Intelligence+%E2%9C%A8" alt="Typing SVG" />
 </div>
-
-<br>
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 
 ## 🧬 About Me
 
@@ -35,8 +36,9 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
-
-<br>
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 
 ## 🛠️ Tech Arsenal
 
@@ -75,8 +77,9 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
-
-<br>
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 
 ## 📈 GitHub Analytics
 
@@ -84,8 +87,9 @@ me.say_hi()
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sohail-Shaikh-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sohail-Shaikh-07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 </div>
-
-<br>
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 
 ## 📊 Contribution Activity
 
@@ -97,16 +101,18 @@ me.say_hi()
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sohail-Shaikh-07&theme=github_dark" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sohail-Shaikh-07&theme=github_dark" />
 </div>
-
-<br>
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-<br>
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 
 ## 🚀 Featured Projects
 
@@ -123,14 +129,16 @@ me.say_hi()
 </td>
 <td width="50%" align="center" valign="top">
 <br />
-<img src="https://img.shields.io/badge/AI--Agents-0070F3?style=for-the-badge&logo=probot&logoColor=white" width="95%" />
+<img src="https://img.shields.io/badge/AI--Agents-0070F3?style=for-the-badge&logo=python&logoColor=white" width="95%" />
 <p><b><font color="#4299e1" size="4">🤖 Agentic Workflows</font></b><br /><i>Multiple AI Agent workflow mono repository for advanced automation.</i></p>
 <a href="https://github.com/Sohail-Shaikh-07/AI-Agents"><img src="https://img.shields.io/badge/VIEW_SOURCE-0070F3?style=flat-square&logo=github&logoColor=white" height="25" /></a>
 <br /><br />
 </td>
 </tr>
 </table>
-<img src="https://img.shields.io/badge/----------%20⭐%20-----------0070F3?style=for-the-badge" width="30%" />
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 </div>
 
 <!-- You can also manually showcase projects like this:
@@ -175,8 +183,9 @@ mindmap
 ```
 
 </div>
-
-<br>
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 
 ## 🤝 Let's Connect
 
@@ -189,20 +198,21 @@ mindmap
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
 
 </div>
-
-<br>
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br />
 
 ## 💭 Random AI Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Artificial%20Intelligence%20is%20the%20new%20electricity.&author=Andrew%20Ng" alt="AI Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20science%20of%20today%20is%20the%20technology%20of%20tomorrow.&author=Edward%20Teller&border=true" alt="Quote"/>
 </div>
 
 <br>
 
 <div align="center">
   
-### ⚡ "In God we trust, all others must bring data." — W. Edwards Deming
+### ⚡ "Torture the data, and it will confess to anything." — Ronald Coase
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=120&section=footer" />
 
