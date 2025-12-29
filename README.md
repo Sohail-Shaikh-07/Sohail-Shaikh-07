@@ -111,13 +111,26 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 <div align="center">
-  
-> 📌 **Pin your best repositories here!**
-> 
-> Go to your GitHub profile → Customize your pins → Select your top projects
->
-> They will automatically appear on your profile page!
-
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<br />
+<img src="https://img.shields.io/badge/TextxGen-7928CA?style=for-the-badge&logo=python&logoColor=white" width="95%" />
+<p><b><font color="#9f7aea" size="4">✨ LLM Framework</font></b><br /><i>A powerful Python package for seamless interaction with Large Language Models.</i></p>
+<a href="https://github.com/Sohail-Shaikh-07/TextxGen"><img src="https://img.shields.io/badge/VIEW_SOURCE-7928CA?style=flat-square&logo=github&logoColor=white" height="25" /></a>
+<a href="https://pystack.site/"><img src="https://img.shields.io/badge/WEBSITE-FF0080?style=flat-square&logo=vercel&logoColor=white" height="25" /></a>
+<br /><br />
+</td>
+<td width="50%" align="center" valign="top">
+<br />
+<img src="https://img.shields.io/badge/AI--Agents-0070F3?style=for-the-badge&logo=probot&logoColor=white" width="95%" />
+<p><b><font color="#4299e1" size="4">🤖 Agentic Workflows</font></b><br /><i>Multiple AI Agent workflow mono repository for advanced automation.</i></p>
+<a href="https://github.com/Sohail-Shaikh-07/AI-Agents"><img src="https://img.shields.io/badge/VIEW_SOURCE-0070F3?style=flat-square&logo=github&logoColor=white" height="25" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
+<img src="https://img.shields.io/badge/----------%20⭐%20-----------0070F3?style=for-the-badge" width="30%" />
 </div>
 
 <!-- You can also manually showcase projects like this:
