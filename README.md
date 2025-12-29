@@ -208,14 +208,14 @@ mindmap
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20science%20of%20today%20is%20the%20technology%20of%20tomorrow.&author=Edward%20Teller&border=true" alt="Quote"/>
 </div>
 
-<br>
 
 <div align="center">
-  
-### ⚡ "Torture the data, and it will confess to anything." — Ronald Coase
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=120&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Torture+the+data%2C+and+it+will+confess+to+anything." alt="Quote" />
 
-**🌟 Thanks for visiting! Let's innovate with AI together 🤖**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer" />
+
+<p><strong>🌟 Thanks for visiting! Let’s innovate with AI together 🤖</strong></p>
 
 </div>
